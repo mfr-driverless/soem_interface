@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/leggedrobotics/soem_interface.git
+	branch = master
+	commit = 7b7bed29d8dfe1d0ef17c8e42a4aab07b6b393df
+	parent = fbe887668073cb6b85e618e189877406c1359299
+	method = merge
+	cmdver = 0.4.3
